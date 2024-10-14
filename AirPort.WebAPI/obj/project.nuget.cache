@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WB5llhlK3znImOunS7F+xcO4Kdpq/CMGy650Q75vFqNpBQdm19TIlZIGx62H4nBQGkF4+kWISI0QxkDyF70OXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.krasheninnikova\\RiderProjects\\AirPort\\AirPort.WebAPI\\AirPort.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

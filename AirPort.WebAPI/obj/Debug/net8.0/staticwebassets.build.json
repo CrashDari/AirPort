@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BdyPTv8H461sDrMfj8NsZ1tmX9IVVVxkJF90GJ5nzh8=",
+  "Source": "AirPort.WebAPI",
+  "BasePath": "_content/AirPort.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
