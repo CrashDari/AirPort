@@ -1,0 +1,11 @@
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\bin\Debug\net8.0\AirPort.Domain.deps.json
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\bin\Debug\net8.0\AirPort.Domain.dll
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\bin\Debug\net8.0\AirPort.Domain.pdb
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\AirPort.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\AirPort.Domain.AssemblyInfoInputs.cache
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\AirPort.Domain.AssemblyInfo.cs
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\AirPort.Domain.csproj.CoreCompileInputs.cache
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\AirPort.Domain.dll
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\refint\AirPort.Domain.dll
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\AirPort.Domain.pdb
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\AirPort.Domain\obj\Debug\net8.0\ref\AirPort.Domain.dll
