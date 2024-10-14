@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\d.krasheninnikova\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_AirPort.407886612\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=024507fd_002Dd22c_002D4063_002D873a_002Daf7b53a22a00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Post_ReturnOkResult_WhenCalledWithValidParameters" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6767E6B5-36FE-4C2E-B995-952E23287CCB::net8.0::AirPort.PlaneController.Tests.WebApiTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.ApiTests.GetBySerialNumber_ReturnsNotFound_WhenPlaneDoesNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.ApiTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B18EC24A-B27A-4873-A134-89844E00FE9B::net8.0::AirPort.RestAPI.Tests.RestApiTests.Post_ReturnOkResult_WhenCalledWithValidData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B18EC24A-B27A-4873-A134-89844E00FE9B::net8.0::AirPort.RestAPI.Tests.RestApiTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.APIAllTests.Get_Controller_Endpoint_Should_Return_200&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.APIAllTests.Get_Endpoint_Should_Return_200&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.APIAllTests.Post_Endpoint_Should_Return_200&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.APIAllTests.Get_Endpoint_Should_Return_404&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.APIAllTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F2ABCB24-F887-4189-8CF2-FC40E80118D9::net8.0::AirPort.Presentation.Test.ApiAllTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5fa620ed_002Ddcd7_002D4075_002Dad42_002D20f3760ebb68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AirPortTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6FED6599-9246-448A-BE78-64760F642315::net8.0::AirPort.Domain.Tests.AirPortTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68ec5b6f_002D90dc_002D4efe_002Dba62_002D2c873f7ae14c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PassengerFlyingClassPromotion_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1DED7008-5740-4775-9986-7F4BC82982A2::net8.0::AirPort.Domain.TestsFull.AirPortAllPositiveTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79665270_002D21c2_002D44a9_002D9344_002D1213f094941e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SuccessPassengerPlane" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::1DED7008-5740-4775-9986-7F4BC82982A2::net8.0::AirPort.Domain.TestsFull.AirPortAllPositiveTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::6767E6B5-36FE-4C2E-B995-952E23287CCB::net8.0::AirPort.PlaneController.Tests.WebApiTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;6767E6B5-36FE-4C2E-B995-952E23287CCB/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
