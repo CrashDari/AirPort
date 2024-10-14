@@ -1,0 +1,11 @@
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\bin\Debug\net8.0\Airport.Web.Common.deps.json
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\bin\Debug\net8.0\Airport.Web.Common.dll
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\bin\Debug\net8.0\Airport.Web.Common.pdb
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\Airport.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\Airport.Web.Common.AssemblyInfoInputs.cache
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\Airport.Web.Common.AssemblyInfo.cs
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\Airport.Web.Common.csproj.CoreCompileInputs.cache
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\Airport.Web.Common.dll
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\refint\Airport.Web.Common.dll
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\Airport.Web.Common.pdb
+C:\Users\d.krasheninnikova\RiderProjects\AirPort\Airport.Web.Common\obj\Debug\net8.0\ref\Airport.Web.Common.dll
